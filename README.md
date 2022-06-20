@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anuraagroy.1313@gmail.com**
 
-- 📄 Know about my experiences "file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf"
+- 📄 Know about my experiences [file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf](file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf)
 
 - ⚡ Fun fact **I am always eager to learn about new technology.**
 
