@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for Job **Startup company**
 
-- 📫 How to reach me **anuragroy.xworkz@gmail.com**
+- 📫 How to reach me **anuraagroy.1313@gmail.com**
 
 - 📄 Know about my experiences 
 [file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf](file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf)
