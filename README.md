@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anuraagroy.1313@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y5vVWdBSRGyGWqz0cHW6abo_9Q2hZ2iLajJLKPEAZu0/edit](https://docs.google.com/document/d/1y5vVWdBSRGyGWqz0cHW6abo_9Q2hZ2iLajJLKPEAZu0/edit)
+- 📄 Know about my experiences [file:///C:/Users/anura/Downloads/ANURAG%20ROY(RESUME).pdf])
 
 - ⚡ Fun fact **I am always eager to learn about new technology.**
 
