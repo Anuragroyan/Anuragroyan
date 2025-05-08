@@ -18,7 +18,7 @@
 🔭 **Current Projects:**
 
 - Bootstrap Project on IOS: I intend to build a portfolio of six iOS projects using Swift to demonstrate my proficiency across various skill levels, including beginner, intermediate, and advanced. These projects will utilize iOS frameworks and feature functionalities encompassing database interaction, data science applications, and augmented reality integration.
-- Embarking on my open-source contribution efforts in Android and web development, aiming to get those first pull requests accepted. Eager to learn and collaborate!
+- Embarking on my open-source contribution efforts in Android and web development, aiming to get those first pull requests accepted. Eager to learn and collaborate!.
 
 💡 **Open Source Contributions:**
 - Hustling to get my first contribution on open source within 30 days.
@@ -32,7 +32,7 @@
 
 📫 **How to reach me:**
 - Gmail - anuragroy395@gmail.com
-- Mobile No - 7619354965
+- Mobile_No - 8618541947
 - Github - https://www.github.com/Anuragroyan
 - Linkedin - https://www.linkedin.com/in/anurag_roy997
 - Twitter - https://x.com/anurag_roy97
