@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm ANURAG ROY!
 
-[!0 Followers (https://img.shields.io/github/followers/Anurag Roy?style=social&label=Follow)](https://github.com/Anuragroyan)
-[!0 Followers (https://img.shields.io/twitter/follow/@anurag_roy97?style=social)](https://twitter.com/@anurag_roy97)
-[!32 Followers (https://img.shields.io/badge/-Anurag Roy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-roy997/)
+[![GitHub followers](https://img.shields.io/github/followers/[Anuragroyan]?style=social&label=Follow)](https://github.com/anuragroyan)
+[![Twitter](https://img.shields.io/twitter/follow/[Anurag Roy]?style=social)](https://twitter.com/anurag_roy97)
+[![LinkedIn](https://img.shields.io/badge/-[Anurag Roy]-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag_roy997/)
+
 
 🎓 PostGraduate a 2018-2021 Computer Application student at Pes University (Pes University Bangalore Main Campus).
 
