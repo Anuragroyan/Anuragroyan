@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm ANURAG ROY!
 
-[![GitHub followers](https://img.shields.io/github/followers/Anuragroyan?style=social&label=Follow)](https://github.com/anuragroyan)
-[![Twitter](https://img.shields.io/twitter/follow/anurag_roy97?style=social)](https://twitter.com/anurag_roy97)
-[![LinkedIn](https://img.shields.io/badge/-AnuragRoy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag_roy997/)
-
+💻 Android Development Intern | Vyza Solution Pvt Limited, Hyderabad | I contributed to a meaningful government scheme as an Android Developer, leading a team of 5 members in the UI/UX design and implementation of a mobile application. Inspired by platforms such as OLX and Quikr, this initiative seeks to establish an accessible marketplace for secondhand furniture, electronics, and appliances, empowering economically disadvantaged communities. My work primarily involved Java-based development.
 
 🎓 PostGraduate a 2018-2021 Computer Application student at Pes University (Pes University Bangalore Main Campus).
 
@@ -34,9 +31,11 @@
 - I am highly motivated to participate in Google Summer of Code 2026 and am actively exploring potential organizations and projects in Android.
 
 📫 **How to reach me:**
-Gmail - anuragroy395@gmail.com
-WhatsApp - 7619354965
-Twitter - https://x.com/anurag_roy97
-Instagram - https://www.instagram.com/life.ofdeveloper
+- Gmail - anuragroy395@gmail.com
+- Mobile No - 7619354965
+- Github - https://www.github.com/Anuragroyan
+- Linkedin - https://www.linkedin.com/in/anurag_roy997
+- Twitter - https://x.com/anurag_roy97
+- Instagram - https://www.instagram.com/life.ofdeveloper
 
 ---
