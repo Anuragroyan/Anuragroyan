@@ -32,7 +32,7 @@
 
 📫 **How to reach me:**
 - Gmail - anuragroy395@gmail.com
-- Mobile_No - 8618541947
+- Mobile.No - 8618541947
 - Github - https://www.github.com/Anuragroyan
 - Linkedin - https://www.linkedin.com/in/anurag_roy997
 - Twitter - https://x.com/anurag_roy97
