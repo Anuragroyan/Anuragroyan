@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Anuragroyan?style=social&label=Follow)](https://github.com/anuragroyan)
 [![Twitter](https://img.shields.io/twitter/follow/anurag_roy97?style=social)](https://twitter.com/anurag_roy97)
-[![LinkedIn](https://img.shields.io/badge/-anurag_roy997-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag_roy997/)
+[![LinkedIn](https://img.shields.io/badge/-AnuragRoy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag_roy997/)
 
 
 🎓 PostGraduate a 2018-2021 Computer Application student at Pes University (Pes University Bangalore Main Campus).
